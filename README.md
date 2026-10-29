@@ -8,7 +8,7 @@ I have a background in land management and cartography, and I am learning Python
 
 | Lesson | Topic | Status |
 |--------|-------|--------|
-| 1 | Basic concepts of Python | In progress |
+| 1 | Basic concepts of Python | Done |
 | 2 | Lists, Git and GitHub | Not started |
 | 3 | Loops and conditional statements | Not started |
 | 4 | Functions, scripts and modules | Not started |
